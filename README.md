@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">🔭 Holds a <b>About
+<p align="left">🔭<b>Holds a</b> <b>About
 A Master's student in Computer Science specializing in data engineering, with hands-on experience in building and optimizing data pipelines and cloud-based data warehousing solutions using AWS, Python, Kafka, and Spark. Demonstrated proficiency in improving data processing and reporting efficiency, and skilled in deploying scalable systems with Docker, Kubernetes, and Azure. Proven track record in real-time data streaming, ETL processes, and collaborative AI/ML projects..<br>🤝 Actively seeking new opportunities as a <b>Data Engineer </b>
   
   <h2 align="left">I am Certified</h2>
