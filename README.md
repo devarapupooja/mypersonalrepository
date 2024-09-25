@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/lakshmi-pooja-devarapu-a45a542b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/lakshmi-pooja-devarapu-a45a542b9/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lakshmi-pooja-devarapu-a45a542b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lakshmi-pooja-devarapu-a45a542b9/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,7 +25,8 @@
 
 ###
 
-<p align="left">🔭 Holds a <b>Master's degree in Computer Science in Data Science </b> From University Of North Carolina at Charlotte <br>🤝 Actively seeking new opportunities as a <b>Data Engineer </b>
+<p align="left">🔭 Holds a <b>About
+A Master's student in Computer Science specializing in data engineering, with hands-on experience in building and optimizing data pipelines and cloud-based data warehousing solutions using AWS, Python, Kafka, and Spark. Demonstrated proficiency in improving data processing and reporting efficiency, and skilled in deploying scalable systems with Docker, Kubernetes, and Azure. Proven track record in real-time data streaming, ETL processes, and collaborative AI/ML projects..<br>🤝 Actively seeking new opportunities as a <b>Data Engineer </b>
   
   <h2 align="left">I am Certified</h2>
   <img src="SPARK BADGE.png"  height="200" width="200"> <b></b><img src="aws-certified-cloud-practitioner.png" height="200" width="200"></b>
