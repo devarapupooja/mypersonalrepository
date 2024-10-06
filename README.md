@@ -17,7 +17,7 @@
 
 ###
 
-<h3 align="center">A Data Engineer with over <b>3+ years of experience</b></h3>
+<h3 align="center">A Data Engineer <b></b></h3>
 
 
 
